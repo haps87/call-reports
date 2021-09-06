@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Call Reports</string>
+    <string name="search">Search</string>
+    <string name="no_call_logs">No Call Logs</string>
+</resources>
